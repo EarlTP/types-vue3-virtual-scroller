@@ -1,0 +1,26 @@
+{
+  "name": "@types/vue-virtual-scroller",
+  "version": "1.0.0",
+  "description": "typescript declaration for vue-virtual-scroller 2 with vue 3",
+  "main": "index.d.ts",
+  "scripts": {},
+  "author": "Luca Chiavelli",
+  "license": "MIT",
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EarlTP/types-vue3-virtual-scroller.git"
+  },
+  "keywords": [
+    "@types/vue-virtual-scroller",
+    "vue-virtual-scroller",
+    "typescript",
+    "virtual-scroller",
+    "vue3",
+    "vue"
+  ],
+  "bugs": {
+    "url": "https://github.com/EarlTP/types-vue3-virtual-scroller/issues"
+  },
+  "homepage": "https://github.com/EarlTP/types-vue3-virtual-scroller#readme"
+}
