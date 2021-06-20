@@ -1,6 +1,6 @@
 {
-  "name": "@types/vue-virtual-scroller",
-  "version": "1.0.0",
+  "name": "@earltp/vue-virtual-scroller",
+  "version": "1.0.1",
   "description": "typescript declaration for vue-virtual-scroller 2 with vue 3",
   "main": "index.d.ts",
   "scripts": {},
@@ -13,6 +13,7 @@
   },
   "keywords": [
     "@types/vue-virtual-scroller",
+    "@earltp/vue-virtual-scroller",
     "vue-virtual-scroller",
     "typescript",
     "virtual-scroller",
